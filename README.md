@@ -1,8 +1,8 @@
 # Seguimiento a una flota de vehículos con Cosmos DB,  Synapse y Power BI
 
-Este repositorio contiene el código utilizado en la entrada de blog htpps://www.dataxbi.com/blog/2020/08/03/flota-vehiculos-cosmos-db-synapse-power-bi
+Este repositorio contiene el código utilizado en la entrada de blog https://www.dataxbi.com/blog/2020/08/03/flota-vehiculos-cosmos-db-synapse-power-bi
 
- [![Cosmoss DB - Synapse - Power BI](synapse-link.jpg)](htpps://www.dataxbi.com/blog/2020/08/03/flota-vehiculos-cosmos-db-synapse-power-bi)
+ [![Cosmoss DB - Synapse - Power BI](synapse-link.jpg)](https://www.dataxbi.com/blog/2020/08/03/flota-vehiculos-cosmos-db-synapse-power-bi)
 
 
 - Script Python para las simulación de una flota de vehículos (vehicle_fleet_simulator.py)
