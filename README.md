@@ -1,8 +1,8 @@
 # Seguimiento a una flota de vehículos con Cosmos DB,  Synapse y Power BI
 
-Este repositorio contiene el código utilizado en la entrada de blog https://www.dataxbi.com/blog/2020/08/03/flota-vehiculos-cosmos-db-synapse-power-bi
+Este repositorio contiene el código utilizado en la entrada de blog https://www.dataxbi.com/blog/2020/08/02/flota-vehiculos-cosmos-db-synapse-power-bi
 
- [![Cosmoss DB - Synapse - Power BI](synapse-link.jpg)](https://www.dataxbi.com/blog/2020/08/03/flota-vehiculos-cosmos-db-synapse-power-bi)
+ [![Cosmoss DB - Synapse - Power BI](synapse-link.jpg)](https://www.dataxbi.com/blog/2020/08/02/flota-vehiculos-cosmos-db-synapse-power-bi)
 
 
 - Script Python para las simulación de una flota de vehículos (vehicle_fleet_simulator.py)
@@ -57,7 +57,7 @@ una actualización cada x segundos (definidos en la variable `TRIP_UPDATE_INTERV
 
 
 Para la comunicación con Cosmos DB se utiliza el paquete [azure-cosmos](https://pypi.org/project/azure-cosmos/) de Microsoft y los parámetros de conexión se guardan en las variables:
-- COSMOS_DB_ENDPOINT
-- COSMOS_DB_KEY
-- COSMOS_DB_DATABASE_NAME
-- COSMOS_DB_CONTAINER_NAME
+- `COSMOS_DB_ENDPOINT`
+- `COSMOS_DB_KEY`
+- `COSMOS_DB_DATABASE_NAME`
+- `COSMOS_DB_CONTAINER_NAME`
